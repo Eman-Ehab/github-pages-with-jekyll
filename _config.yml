@@ -3,9 +3,9 @@ author: Eman-Ehab
 email: emanehab.ieee@gmail.com
 description: > this is a discription. 
 # social links
-twitter_username: emanehabn #
+twitter_username: emanehabn 
 github_username:  Eman-Ehab
 
-show_excerpts: true # set to false to remove excerpts on the homepage
+show_excerpts: true 
 
 theme: minima
