@@ -3,8 +3,8 @@ author: Eman-Ehab
 email: emanehab.ieee@gmail.com
 description: > this is a discription. 
 # social links
-twitter_username: @emanehabn # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: emanehabn #
+github_username:  Eman-Ehab
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
